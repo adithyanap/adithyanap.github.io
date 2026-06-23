@@ -38,7 +38,7 @@ function changing() {
 }
 
 function openfun(){
-    window.open("https://github.com/adithyanap/weather-app/tree/main");
+    window.open("https://github.com/adithyanap/RESUME-ANALYSER");
 }
 setInterval(changing, 500);
 main()
